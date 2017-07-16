@@ -29,9 +29,6 @@ namespace PapaBobs.Web
             var orderDTO = buildOrder();
             Domain.OrderManager.CreateOrder(orderDTO);
 
-            //validationLabel.Text = "Order Created!";
-            //validationLabel.Visible = true;
-
             Response.Redirect("Success.aspx");
         }
 
