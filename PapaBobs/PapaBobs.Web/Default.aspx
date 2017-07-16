@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
     <div class="container">
         <div class="page-header">
-            <h2>Welcome to Papa Bob's Pizza</h2>
+            <h2>Papa Bob's Pizza</h2>
             <p>Pizza to Code By</p>
         </div>
         <div class="form-group">
